@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "category": "After 10th",
+        "sub_category": "Science",
+        "degree": "B.E",
+        "duration": "4yrs",
+        "eligibilty": null,
+        "description": "test",
+        "resources": "test",
+        "type_entry": "upsc",
+        "age": "26yrs",
+        "specialisations": [
+            {
+                "id": 1,
+                "degree_id": 1,
+                "specialisation": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, doloribus. Porro cupiditate asperiores nam, recusandae eius excepturi! Consequatur illo error, officiis accusantium est quisquam, necessitatibus impedit a nesciunt, pariatur iure?"
+            },
+            {
+                "id": 2,
+                "degree_id": 1,
+                "specialisation": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero, doloribus. Porro cupiditate asperiores nam, recusandae eius excepturi! Consequatur illo error, officiis accusantium est quisquam, necessitatibus impedit a nesciunt, pariatur iure?"
+            }
+        ],
+        "entrance_exams": [
+            {
+                "id": 2,
+                "degree_id": 1,
+                "entrance_exam": "test",
+                "selection_process": "test",
+                "test_pattern": "ttweq",
+                "no_of_ques": "ft",
+                "marks": "fwfg",
+                "tentative_schedule": "jh",
+                "exam_time": "gjgj",
+                "exam_mode": "gjhg",
+                "website": "www.google.com"
+            },
+            {
+                "id": 3,
+                "degree_id": 1,
+                "entrance_exam": "test",
+                "selection_process": "test",
+                "test_pattern": "ttweq",
+                "no_of_ques": "ft",
+                "marks": "fwfg",
+                "tentative_schedule": "jh",
+                "exam_time": null,
+                "exam_mode": "gjhg",
+                "website": "www.google.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "After 12th",
+        "sub_category": "Commerce",
+        "degree": "B.com",
+        "duration": "3yrs",
+        "eligibilty": null,
+        "description": "test",
+        "resources": "test",
+        "type_entry": null,
+        "age": "NA",
+        "specialisations": [
+            {
+                "id": 3,
+                "degree_id": 2,
+                "specialisation": "Test"
+            },
+            {
+                "id": 4,
+                "degree_id": 2,
+                "specialisation": "woohoo"
+            }
+        ],
+        "entrance_exams": [
+            {
+                "id": 4,
+                "degree_id": 2,
+                "entrance_exam": "dasda",
+                "selection_process": "ssdadsa",
+                "test_pattern": "dads",
+                "no_of_ques": "dasd",
+                "marks": "asd",
+                "tentative_schedule": "asdas",
+                "exam_time": "dasd",
+                "exam_mode": "asd",
+                "website": "ads"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "After 12th",
+        "sub_category": "Commerce",
+        "degree": "LAW",
+        "duration": null,
+        "eligibilty": null,
+        "description": null,
+        "resources": null,
+        "type_entry": null,
+        "age": null,
+        "specialisations": [],
+        "entrance_exams": []
+    }
+]
